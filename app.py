@@ -18,7 +18,7 @@ class Todo(db.Model):
 
 
 @app.route('/', methods=['GET','POST'])
-def hello_world():
+def my_todo():
     if request.method=='POST':
         title = request.form['title']
         desc = request.form['desc']
@@ -30,11 +30,7 @@ def hello_world():
     return render_template('index.html', allTodo=allTodo)
    
 
-@app.route('/show')
-def show():
-    allTodo = Todo.query.all()
-    print(allTodo)
-    return 'this is product page'
+
 
 @app.route('/update/<int:sno>',methods=['GET','POST'])
 def update(sno):
@@ -58,9 +54,8 @@ def delete(sno):
     db.session.delete(todo)
     db.session.commit()
     return redirect("/")
-   
 
-
-if __name__== "__main__ ": 
+    
+if __name__== "__main__ " : 
     app.run(debug=True)
     
