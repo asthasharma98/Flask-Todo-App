@@ -3,7 +3,9 @@
 ### Overview 
 
 A Simple Todo web App developed using `Flask`,`SQLAlchemy` and `Bootstarp` and deployed on Heroku to get the basic idea about the flask web framework.
-**Todo web App** : [](https://todo-app-astha.herokuapp.com/) 
+
+**Todo web App** : [https://todo-app-astha.herokuapp.com/](https://todo-app-astha.herokuapp.com/) 
+
 The App basically follow the CRUD operation where you can add, update and delete todo items.
 
 
@@ -15,7 +17,7 @@ To Address this problem I started exploring and then come to know about `Flask`.
 ### About Flask 
 
 Flask is a micro web application framework written in Python. It has multiple modules that make it easier for a web developer to write applications without having to worry about the details like protocol management, thread management, etc.
-*To know more follow the given link :* [](https://pythonbasics.org/what-is-flask-python/)
+*To know more follow the given link :* [https://pythonbasics.org/what-is-flask-python/](https://pythonbasics.org/what-is-flask-python/)
 
 ### Technical Aspects 
 
