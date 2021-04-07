@@ -30,10 +30,28 @@ This App is created using Python3 programming language.
 
 The Code is written in Python 3.8. If you don't have Python installed you can find it [here](https://www.python.org/downloads/). If you are using a lower version of Python you can upgrade using the pip package, ensuring you have the latest version of pip. To install the required packages and libraries, run this command in the project directory after cloning the repository:
 
-``` pip install -r requirements.txt ```
+```
+pip install -r requirements.txt 
+
+```
 
 *To clone the repo*
-``` git clone https://github.com/asthasharma98/Flask-Todo-App.git ```
+
+``` 
+git clone https://github.com/asthasharma98/Flask-Todo-App.git
+
+```
+
+### Run 
+
+*To Run the Application*
+
+```
+python app.py 
+
+```
+
+
 
 
 
