@@ -66,7 +66,7 @@ You can download it from [here](https://devcenter.heroku.com/articles/heroku-cli
 
 ### Credits
 
-A huge shout-out to [codewithharry](codewithharry.com).
+A huge shout-out to [codewithharry](codewithharry.com)
 I highly recommend you to check out this website.
 
 #### Some useful Resources
