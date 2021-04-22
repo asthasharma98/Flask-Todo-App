@@ -24,7 +24,7 @@ Flask is a micro web application framework written in Python. It has multiple mo
 This App is created using Python3 programming language. 
 - Project consist `app.py` script which is used to run the application and is engine of this app. It connects with database and all operations on database are held there.
 - templates folder contains three files `index.html`, `base.html` and `update.html` which describe the structure of the app and the way this web application behaves. These files are connected with Python via Flask framework. 
-- static folder contains file `style.css` which adds some styling and enhance the look of the appication.
+- static folder contains file `style.css` which adds some styling and enhance the look of the application.
 
 ### Installation
 
