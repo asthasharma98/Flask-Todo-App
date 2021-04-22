@@ -8,6 +8,12 @@ A Simple Todo web App developed using `Flask`,`SQLAlchemy` and `Bootstarp` and d
 
 The App basically follow the CRUD operation where you can add, update and delete todo items.
 
+### Screenshots
+
+![Todo App](https://github.com/asthasharma98/Flask-Todo-App/blob/master/readme_images/todo.PNG)
+
+![Todo App](https://github.com/asthasharma98/Flask-Todo-App/blob/master/readme_images/todo_update.PNG) 
+
 
 ### Motivation behind learning Flask 
 
